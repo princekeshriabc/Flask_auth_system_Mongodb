@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6603f3ffc57b19477248dff1"
+  },
+  "username": "cs21b1023@iiitr.ac.in",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDNuenFEUi5mRDhIbjNLbHJwUzFGOWVsMzI4MGdMdU5xTUNpcGguSm5Qa1pOTzhoL3MudHZx",
+      "subType": "00"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6603f4adc57b19477248dff2"
+  },
+  "username": "princeabc",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHdUZ1MvM1QwN3IwLi5WeXpUcWNwT2VsZEZ5U2dULzBVVG1HTnRmSG5Kc2IueTRZY2h1M2lL",
+      "subType": "00"
+    }
+  }
+}]
